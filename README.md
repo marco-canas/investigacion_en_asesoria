@@ -1,7 +1,7 @@
-# Seciuencia de acciones para espacio de asesoría como espacio investigativo
+# Secuencia de acciones para constituir espacio de asesoría como espacio investigativo
 
 
-Esta es una tienes una secuencia de acciones estructurada para consolidar tu espacio de asesoría como un entorno de investigación con la metodología de **Investigación Acción Educativa (IAE)**:  
+Esta es una tienes una secuencia de acciones estructurada para consolidar mi espacio de asesoría como un entorno de investigación con la metodología de **Investigación Acción Educativa (IAE)**:  
 
 ---
 

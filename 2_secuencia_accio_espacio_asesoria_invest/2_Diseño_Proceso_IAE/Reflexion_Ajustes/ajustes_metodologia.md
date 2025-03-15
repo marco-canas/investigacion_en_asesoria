@@ -1,0 +1,2 @@
+# ajustes metodologia
+
