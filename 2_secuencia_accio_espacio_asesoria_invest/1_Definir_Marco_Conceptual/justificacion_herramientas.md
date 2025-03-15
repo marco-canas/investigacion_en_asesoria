@@ -1,6 +1,4 @@
-# Justificacion herramientas  
-
-# Enfoque de Aula Invertida, STEAMS y ABPP en la Comprensión Matemática
+# Justificacion herramientas # Enfoque de Aula Invertida, STEAMS y ABPP en la Comprensión Matemática
 
 ## Introducción
 El desarrollo de estrategias pedagógicas innovadoras es fundamental para mejorar la comprensión de los conceptos matemáticos. En el espacio de asesoría en matemáticas del Campus Caucasia de la Universidad de Antioquia, se implementan los enfoques de Aula Invertida, STEAMS y Aprendizaje Basado en Problemas y Proyectos (ABPP) para potenciar el aprendizaje activo y significativo.
@@ -29,8 +27,20 @@ Para fortalecer la implementación de estos enfoques, se utilizarán **YouTube (
 - **YouTube (DiMathData):** Servirá como repositorio de videos explicativos donde se presentarán clases, tutoriales y soluciones detalladas de problemas matemáticos y de ciencia de datos. Este contenido permitirá a los estudiantes acceder a los recursos en cualquier momento y reforzar los conceptos trabajados en las asesorías.
 - **GitHub (https://github.com/marco-canas/investigacion_en_asesoria):** Funcionará como un espacio colaborativo donde se alojarán códigos en Python, materiales en LaTeX y Markdown, guías metodológicas y bases de datos utilizadas en los procesos de modelado matemático. Además, facilitará la interacción entre asesores y estudiantes, permitiendo la mejora continua de los recursos y la documentación de la investigación.
 
+## Referencias
+
+1. Bergmann, J., & Sams, A. (2012). *Flip Your Classroom: Reach Every Student in Every Class Every Day*. International Society for Technology in Education.
+2. Bishop, J., & Verleger, M. (2013). The flipped classroom: A survey of the research. *Proceedings of the ASEE National Conference*, 30(9), 1-18.
+3. Bransford, J. D., Brown, A. L., & Cocking, R. R. (2000). *How People Learn: Brain, Mind, Experience, and School*. National Academy Press.
+4. Hmelo-Silver, C. E. (2004). Problem-based learning: What and how do students learn? *Educational Psychology Review, 16*(3), 235-266.
+5. Jonassen, D. H. (2011). *Learning to Solve Problems: A Handbook for Designing Problem-Solving Learning Environments*. Routledge.
+6. Freeman, S., et al. (2014). Active learning increases student performance in science, engineering, and mathematics. *Proceedings of the National Academy of Sciences, 111*(23), 8410-8415.
+7. Pérez-Echeverría, M. P., & Pozo, J. I. (2006). *Psicología del aprendizaje universitario: La formación en competencias*. Morata.  
+   https://www.scielo.org.mx/scielo.php?script=sci_arttext&pid=S0185-26982011000100013
+8. Schoenfeld, A. H. (1985). *Mathematical Problem Solving*. Academic Press.
+9.  Valente, J. A. (2014). STEAM education: The role of mathematics in interdisciplinary learning. *International Journal of Science and Mathematics Education, 12*(5), 1103-1120.
+10. Vygotsky, L. S. (1978). *Mind in Society: The Development of Higher Psychological Processes*. Harvard University Press.
+
 ## Conclusión
 La combinación de Aula Invertida, STEAMS y ABPP permite fortalecer la comprensión matemática en los estudiantes, facilitando una enseñanza más activa, contextualizada y efectiva. La implementación de YouTube y GitHub como plataformas de distribución de recursos garantiza el acceso abierto a materiales de calidad y promueve un aprendizaje autónomo y colaborativo en el espacio de asesoría del Campus Caucasia.
-
-
 
