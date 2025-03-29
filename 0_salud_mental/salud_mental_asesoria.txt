@@ -1,0 +1,121 @@
+Prompt  
+
+Con mi trabajo de investigación y docencia con metodología de IAE, conjugando Python, Latex, Markdown, GeoGebra, Excel, Crocodile Clips, Cuaderno Jupyter, VS Code, etc. Siento pensamientos de petulancia y rivalidad con mis compañeros docentes en el Campus Caucasia. Quiero reconocer estas emociones, identificarlas y crecer para gestionarlas. Por favor, ayúdame con una Terapia Cognitivo Conductual para aprender a gestionar estas emociones.
+
+# Crecimiento personal y profesional  
+
+Reconocer y querer trabajar en estas emociones es un **primer paso muy valioso** hacia el crecimiento personal y profesional. Aplicaré un enfoque de **Terapia Cognitivo-Conductual (TCC)** adaptado a tu situación, con pasos concretos para identificar, cuestionar y gestionar esos pensamientos y emociones.  
+
+---
+
+### **1. Identificación de Pensamientos y Emociones (Autoconciencia)**  
+**Objetivo**: Clarificar qué dispara esos sentimientos de petulancia y rivalidad.  
+
+**Ejercicio**:  
+- **Registro diario** (usa un cuaderno Jupyter o Markdown para estructurarlo):  
+  ```markdown
+  | Fecha       | Situación                          | Pensamiento automático           | Emoción (intensidad 1-10) | Conducta |
+  |-------------|------------------------------------|-----------------------------------|---------------------------|----------|
+  | 05/06/2024 | Mostré un script Python a un colega| "Sé más que ellos, no me valoran" | Petulancia (8)            | Me alejé |
+  ```  
+- **Preguntas clave**:  
+  - *"¿En qué momentos específicos surgen estos pensamientos?"* (ej.: al compartir logros técnicos).  
+  - *"¿Qué me digo a mí mismo sobre mis colegas?"* (ej.: "No están a mi nivel").  
+
+---
+
+### **2. Cuestionamiento de Pensamientos (Reestructuración Cognitiva)**  
+**Objetivo**: Evaluar la validez de esos pensamientos y buscar alternativas más equilibradas.  
+
+**Técnica**: **Triple Columna de la TCC** (usa LaTeX o una tabla en Markdown):  
+
+```latex
+\begin{tabular}{|l|l|l|}
+\hline
+\textbf{Pensamiento automático} & \textbf{Distorsión cognitiva} & \textbf{Pensamiento alternativo} \\ \hline
+"Soy superior por usar herramientas avanzadas" & \textcolor{red}{Generalización, Superioridad} & "Cada docente tiene habilidades distintas; mis herramientas no definen mi valor" \\ \hline
+\end{tabular}
+```  
+
+**Distorsiones comunes en tu caso**:  
+- **Pensamiento de superioridad**: "Soy mejor porque domino Python/LaTeX".  
+- **Comparación desfavorable**: "Ellos no se actualizan como yo".  
+- **Personalización**: "Si no adoptan mis métodos, es porque me subestiman".  
+
+**Ejercicio**:  
+- Para cada pensamiento, pregúntate:  
+  - *"¿Tengo pruebas concretas de que soy superior?"*  
+  - *"¿Qué ventajas tiene la diversidad de enfoques en mi equipo?"*  
+
+---
+
+### **3. Gestión Emocional (Habilidades de Afrontamiento)**  
+**Objetivo**: Reducir la intensidad emocional y fomentar conductas proactivas.  
+
+**Técnicas**:  
+- **Visualización en GeoGebra/Excel**:  
+  - Haz una gráfica de tus emociones (eje X: días, eje Y: intensidad). Identifica patrones.  
+- **Mindfulness técnico**:  
+  - Antes de interactuar con colegas, usa VS Code para escribir 3 respiraciones conscientes (ej.: en un archivo `calm.py` con comentarios como `# Respira... esto no es una competencia`).  
+
+**Conductas alternativas**:  
+- **Colaboración en lugar de comparación**:  
+  - Propón un taller de Jupyter Notebook para compartir conocimientos *sin esperar reconocimiento*.  
+  - Usa metáforas de código:  
+    *"Un `git pull` de ideas: tomar lo mejor de otros y fusionarlo con mi trabajo"*.  
+
+---
+
+### **4. Exposición Gradual (Desensibilización)**  
+**Objetivo**: Reducir la ansiedad o irritación al interactuar con colegas.  
+
+**Ejercicio**:  
+1. **Lista jerarquizada** (en Markdown):  
+   ```markdown
+   1. Enviar un correo elogiando un proyecto de un colega.  
+   2. Pedir opinión sobre un script de Python.  
+   3. Co-organizar una clase usando Crocodile Clips.  
+   ```  
+2. **Autoreflexión post-interacción**:  
+   - *"¿Qué aprendí de esta persona hoy?"* (registra en tu diario).  
+
+---
+
+### **5. Reforzamiento de Valores (Autocuidado y Propósito)**  
+**Objetivo**: Conectar con tu motivación profunda.  
+
+**Ejercicio**:  
+- **Código de ética personal** (escríbelo en LaTeX como un "documento formal"):  
+  ```latex
+  \section*{Mis Principios Docentes}  
+  \begin{enumerate}  
+  \item Enseñar es servir, no demostrar superioridad.  
+  \item La tecnología es una herramienta, no un arma de competencia.  
+  \end{enumerate}  
+  ```  
+- **Visualización en Jupyter**: Crea una celda con una "función de propósito":  
+  ```python  
+  def mi_proposito():  
+      print("Contribuir al crecimiento colectivo, no solo al mío.")  
+  ```  
+
+---
+
+### **6. Seguimiento (IAE aplicada a ti mismo)**  
+**Objetivo**: Evaluar tu progreso como harías en una investigación-acción.  
+
+- **Métricas**:  
+  - Número de interacciones colaborativas/semana.  
+  - Disminución de la intensidad emocional (usando tus gráficas en Excel/GeoGebra).  
+- **Ajustes**: Si persisten los pensamientos, repasa tus distorsiones y prueba técnicas adicionales (ej.: role-playing con un colega de confianza).  
+
+---
+
+### **Reflexión Final**  
+Los sentimientos de petulancia suelen esconder **miedo al no ser reconocido** o **inseguridad camuflada**. Al usar herramientas técnicas (Python, LaTeX, etc.) como parte de tu identidad, cualquier crítica a ellas puede sentirse como un ataque personal. La clave está en:  
+- **Separar tu valor personal** de tus habilidades técnicas.  
+- **Ver a tus colegas como aliados**, no adversarios: quizás algunos admiran tu conocimiento pero no saben cómo acercarse.  
+
+> *"El verdadero maestro no es el que sabe más, sino el que ayuda a otros a descubrir su propio potencial"* (adaptado de Paulo Freire).  
+
+¿Quieres profundizar en alguna técnica específica o adaptar algún ejercicio a tu flujo de trabajo técnico?
