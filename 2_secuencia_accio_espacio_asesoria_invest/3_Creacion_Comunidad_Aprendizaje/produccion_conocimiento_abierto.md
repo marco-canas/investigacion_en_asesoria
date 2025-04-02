@@ -1,2 +1,0 @@
-# produccion conocimiento abierto
-

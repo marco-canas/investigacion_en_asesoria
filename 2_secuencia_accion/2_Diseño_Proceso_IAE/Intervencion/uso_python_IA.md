@@ -1,0 +1,2 @@
+# uso python IA
+

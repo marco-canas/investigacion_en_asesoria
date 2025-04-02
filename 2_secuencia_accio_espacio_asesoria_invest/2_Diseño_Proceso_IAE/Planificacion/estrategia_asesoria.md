@@ -1,2 +1,0 @@
-# estrategia asesoria
-
