@@ -1,0 +1,43 @@
+5 de Abril de 2024  
+
+Dame, por favor, estrategias para mejorar como docente, en la capacidad de escuchar a mis estudiantes en sus razonamientos geométricos, de tal manera que pueda apoyarlos en su aprendizaje y les lleve esperanza y confianza en si mismo y en buscar y confiar en utilizar herramientas como GeoGebra, los textos guía como los de  Geometría Euclidiana de Rodolfo Londoño, Geometría de Baldor y Geometría de Clemens. Quiero aprender a orientarlos y escucharlos desde la asertividad y la confianza en mi mismo como Docente para la Dirección de Regionalización de la Universidad de Antioquia.  
+
+
+¡Qué maravilloso compromiso con tus estudiantes!   
+
+Aquí tienes estrategias concretas para fortalecer tu escucha, acompañamiento y confianza en el proceso de enseñanza de la geometría, integrando herramientas como GeoGebra y los textos de referencia:
+
+### **1. Escucha Activa y Asertiva en Geometría**
+   - **Pausa antes de intervenir**: Cuando un estudiante explique su razonamiento (ej.: "Creo que estos triángulos son congruentes por..."), espera 3-5 segundos después de que termine antes de responder. Esto valida su esfuerzo y les da espacio para profundizar.
+   - **Reformula con preguntas abiertas**: 
+     - *Ejemplo*: Si un estudiante dice: "Usé el teorema de Pitágoras", pregunta: 
+*"¿Qué relación viste entre los lados que te llevó a elegir ese teorema?"* (En lugar de: "¿Seguro que es correcto?").  
+
+   - **Registro de patrones**: Lleva un cuaderno donde anotes ideas recurrentes en sus razonamientos (ej.: "Varios confunden semejanza con congruencia"), para diseñar retroalimentación grupal.
+
+### **2. Uso de GeoGebra como Mediador**
+   - **Exploración guiada con errores**: 
+     - Pídeles que construyan una figura con un error deliberado (ej.: "Dibujen un triángulo 'congruente' con lados distintos"). Luego, usen GeoGebra para verificarlo y reflexionen: *"¿Qué nos dice la herramienta? ¿Cómo ajustamos nuestro razonamiento?"*.
+   - **Talleres de "Descubrimiento"**: 
+     - Asigna problemas donde deban usar GeoGebra para conjeturar (ej.: "¿Qué pasa con las medianas si deformamos el triángulo?"). Luego contrasten con los textos (como el de Londoño para rigor teórico).
+
+### **3. Integración de Textos con Enfoque Práctico**
+   - **Citas "vivas"**: Selecciona problemas específicos de Baldor o Clemens (ej.: "Problema 12 de la página 45") y pide que los resuelvan primero con intuición (dibujando), luego con GeoGebra, y finalmente comparen con la solución del libro. Pregunta: *"¿En qué se parecen o diferencian sus métodos?"*.
+   - **Diario de conexiones**: Motiva a los estudiantes a llevar un registro donde relacionen conceptos del libro de Londoño con sus propias palabras y ejemplos visuales (dibujos o capturas de GeoGebra).
+
+### **4. Construcción de Confianza Docente-Estudiante**
+   - **Modelaje de errores**: Resuelve un problema en clase cometiendo un error común (ej.: aplicar mal el criterio LAL). Pregunta: *"Alguien nota algo curioso aquí?"*. Normaliza el error como parte del aprendizaje.
+   - **Rúbricas de autoevaluación**: Crea junto a los estudiantes una rúbrica con criterios como: *"Sé cuándo usar GeoGebra para verificar"* o *"Puedo explicar mi razonamiento con dibujos"*. Que ellos mismos marquen su progreso.
+
+### **5. Estrategias Institucionales (Para la Dirección de Regionalización)**
+   - **Comunidad de práctica**: Organiza un espacio mensual con otros docentes para analizar *"casos"* (ej.: transcripciones de diálogos con estudiantes) y discutir cómo mejorar la escucha.
+   - **Vinculación de estudiantes avanzados**: Invita a exalumnos que dominen GeoGebra o geometría a ser *"tutores pares"* en sesiones prácticas, mostrando cómo superaron sus propias dificultades.
+
+### **6. Frases Asertivas para Fomentar la Esperanza**
+   - **Al corregir**: *"Veo que tu idea usa ángulos alternos, y si añadimos esta línea auxiliar, ¿cómo se completaría?"* (En lugar de: "No es así").
+   - **Al elogiar**: *"Noto que usaste el libro de Baldor para apoyar tu solución—eso muestra autonomía. ¿Qué otros recursos podríamos explorar?"*.
+
+### **Recurso Adicional**:
+   - **Video-análisis**: Grábate dando retroalimentación (con su permiso) y revisa: ¿Haces más preguntas o afirmaciones? ¿Mantienes contacto visual? Ajusta desde la autobservación.
+
+**Clave final**: La geometría es un diálogo entre intuición y rigor. Al escuchar sus razonamientos—aunque sean incipientes—les muestras que la matemática se construye, no solo se transmite. Tu rol en la regionalización adquiere así un impacto profundo: democratizar el acceso al conocimiento con calidez y herramientas pertinentes. ¡Sigue adelante! 📐✨ 
