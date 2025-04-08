@@ -1,6 +1,10 @@
 5 de Abril de 2024  
 
-Dame, por favor, estrategias para mejorar como docente, en la capacidad de escuchar a mis estudiantes en sus razonamientos geométricos, de tal manera que pueda apoyarlos en su aprendizaje y les lleve esperanza y confianza en si mismo y en buscar y confiar en utilizar herramientas como GeoGebra, los textos guía como los de  Geometría Euclidiana de Rodolfo Londoño, Geometría de Baldor y Geometría de Clemens. Quiero aprender a orientarlos y escucharlos desde la asertividad y la confianza en mi mismo como Docente para la Dirección de Regionalización de la Universidad de Antioquia.  
+Dame, por favor, estrategias para mejorar como docente, en la capacidad de escuchar a mis estudiantes en sus razonamientos geométricos.
+De tal manera que pueda apoyarlos en su aprendizaje y les lleve esperanza y confianza en si mismo y en buscar y confiar en utilizar herramientas como GeoGebra, 
+los textos guía como los de  Geometría Euclidiana de Rodolfo Londoño, Geometría de Baldor y Geometría de Clemens.   
+
+Quiero aprender a orientarlos y escucharlos desde la asertividad y la confianza en mi mismo como Docente para la Dirección de Regionalización de la Universidad de Antioquia.  
 
 
 ¡Qué maravilloso compromiso con tus estudiantes!   
@@ -34,10 +38,204 @@ Aquí tienes estrategias concretas para fortalecer tu escucha, acompañamiento y
    - **Vinculación de estudiantes avanzados**: Invita a exalumnos que dominen GeoGebra o geometría a ser *"tutores pares"* en sesiones prácticas, mostrando cómo superaron sus propias dificultades.
 
 ### **6. Frases Asertivas para Fomentar la Esperanza**
-   - **Al corregir**: *"Veo que tu idea usa ángulos alternos, y si añadimos esta línea auxiliar, ¿cómo se completaría?"* (En lugar de: "No es así").
+   - **Al corregir**: *"Veo que tu idea usa ángulos alternos, y si añadimos esta línea auxiliar, ¿Cómo se completaría?"* (En lugar de: "No es así").
    - **Al elogiar**: *"Noto que usaste el libro de Baldor para apoyar tu solución—eso muestra autonomía. ¿Qué otros recursos podríamos explorar?"*.
 
 ### **Recurso Adicional**:
    - **Video-análisis**: Grábate dando retroalimentación (con su permiso) y revisa: ¿Haces más preguntas o afirmaciones? ¿Mantienes contacto visual? Ajusta desde la autobservación.
 
-**Clave final**: La geometría es un diálogo entre intuición y rigor. Al escuchar sus razonamientos—aunque sean incipientes—les muestras que la matemática se construye, no solo se transmite. Tu rol en la regionalización adquiere así un impacto profundo: democratizar el acceso al conocimiento con calidez y herramientas pertinentes. ¡Sigue adelante! 📐✨ 
+**Clave final**: La geometría es un diálogo entre intuición y rigor. Al escuchar sus razonamientos—aunque sean incipientes—les muestras que la matemática se construye, no solo se transmite. Tu rol en la regionalización adquiere así un impacto profundo: democratizar el acceso al conocimiento con calidez y herramientas pertinentes. ¡Sigue adelante! 📐✨   
+
+
+# Retroalimentación desde la inteligencia emocional y la confianza y el liderazgo de Stephen Covey  
+
+**Retroalimentación para Fred Iván**  
+*(Curso: Análisis Numérico - Tarea: Métodos de Aproximación Numérica)*  
+
+---
+
+**Hola Fred Iván,**  
+
+Primero, quiero agradecerte por el esfuerzo que has puesto en los videos entregados. Valoro mucho que hayas compartido tu manuscrito explicando los métodos de suma izquierda, derecha y puntos medios. **Reconozco tu interés por aprender** estos conceptos, que son fundamentales para el análisis numérico.  
+
+### **Observaciones Constructivas**  
+
+1. **Completitud de la Entrega:**  
+   - Solo recibí 3 de los 8 videos solicitados. Te animo a completar los faltantes (incluyendo **trapecio y Sampson**), pues cada método enriquece tu comprensión y será clave para futuras aplicaciones.  
+
+2. **Calidad del Video:**  
+   - El material está invertido, lo que dificulta su uso como **instrumento de enseñanza** (uno de los objetivos de la tarea). Sé que puede ser un detalle técnico, pero ajustarlo hará que tu explicación sea más clara y profesional.  
+
+3. **Estructura del Algoritmo:**  
+   - En el video sobre aproximación del área bajo la curva, faltó detallar la **secuencia gráfica completa** (pasos 1 al 8). Por ejemplo:  
+     - ¿Cómo defines el dominio \([a, b]\)?  
+     - ¿Cómo se relaciona la partición regular con los rectángulos?  
+   - Estos detalles son esenciales para que otros estudiantes puedan replicar el proceso.  
+
+---
+
+### **Recomendaciones para Mejorar**  
+
+- **Organización:**  
+  - Graba en un espacio bien iluminado y verifica que el video no esté invertido antes de subirlo.  
+  - Usa un guión breve para asegurarte de cubrir todos los pasos del algoritmo.  
+
+- **Contenido:**  
+  - Incluye ejemplos **visuales** (dibujos de rectángulos bajo la curva) para ilustrar cada método.  
+  - Explica no solo el "cómo", sino el "por qué" de cada paso (ej: *"Tomamos los extremos izquierdos porque..."*).  
+
+- **Habilidades Digitales:**  
+  - Sé que prefieres métodos tradicionales, pero las herramientas digitales (GeoGebra, Python) pueden **potenciar tu enseñanza**. Te invito a explorarlas juntos si lo deseas.  
+
+---
+
+### **Reflexión Personal**  
+
+Fred Iván, noto que tienes **gran potencial** para liderar en el curso. Tus compañeros podrían aprender mucho de tu pensamiento lógico, pero recuerda que el respeto y la asertividad son la base del trabajo en equipo. Cuando usamos palabras que animan en lugar de burlarnos, creamos un ambiente donde todos crecen.  
+
+**Confío en que puedes:**  
+1. Completar los videos pendientes con los detalles que faltan.  
+2. Mejorar la calidad técnica para que sean recursos educativos efectivos.  
+3. Aprovechar esta oportunidad para practicar habilidades que te servirán tanto en matemáticas como en tu desarrollo profesional.  
+
+---
+
+**Oferta de Apoyo:**  
+Si necesitas ayuda para grabar, editar o entender algún método, estoy aquí para apoyarte. También podemos hablar sobre cómo integrar herramientas digitales de manera sencilla.  
+
+**¡Vamos por esos 5 videos restantes!** Estoy seguro de que, con ajustes pequeños, lograrás un trabajo excepcional.  
+
+Un abrazo,  
+[Tu nombre]  
+
+--- 
+
+**PD:** *"Los líderes más efectivos son aquellos que empoderan a otros."* —Stephen Covey. Tú tienes esa capacidad.  
+
+--- 
+
+**Claves de esta retroalimentación:**  
+- **Empatía:** Reconoce el esfuerzo y ofrece apoyo.  
+- **Liderazgo:** Motiva desde la confianza (Covey).  
+- **Claridad:** Señala errores específicos con soluciones.  
+- **Inclusión digital:** Invita sin imponer.  
+
+¿Necesitas ajustar el tono o añadir algo más?  
+
+
+# Cómo hago para mejorar o desarrollar mi inteligencia emocional, si estudiantes como fred, me muestran relajo, falta de atención en clase, falta de interés y oposición abierta a mi propuesta STEAMS con Python, Markdown, Latex y Git; me hacen irritar y dificultan mi presentación de uso de herramientas como Google Colab con Python en este curso de Análisis numérico?  
+
+
+Desarrollar **inteligencia emocional (IE)** en contextos educativos desafiantes —como el que describes con estudiantes como Fred— requiere un enfoque multifocal: **autogestión emocional, comunicación asertiva y estrategias pedagógicas flexibles**. Aquí tienes un plan concreto, basado en modelos como el de Goleman y Covey, adaptado a tu situación:
+
+---
+
+### **1. Autogestión Emocional**  
+*(Controlar tu irritación antes de responder)*  
+
+- **Técnica del "Pausa-Respira-Reflexiona"**:  
+  - Cuando notes frustración, haz una pausa de 5 segundos, respira profundamente y pregúntate:  
+    *"¿Mi reacción mejorará esta situación o la empeorará?"*.  
+  - **Ejemplo**: Si Fred se burla de usar Python, en lugar de reaccionar, di: *"Veo que tienes resistencia. ¿Qué herramienta te gustaría probar primero?"*.  
+
+- **Autodiagnóstico emocional**:  
+  - Lleva un diario breve al final de cada clase:  
+    *"Hoy me irrité cuando [X]. Mi necesidad insatisfecha era [Y]. La próxima vez puedo intentar [Z]"*.  
+
+---
+
+### **2. Comunicación Asertiva**  
+*(Gestionar la oposición sin confrontar)*  
+
+- **Validar + Redirigir**:  
+  - **Validar**: *"Entiendo que Git o LaTeX puedan parecer complicados al inicio"*.  
+  - **Redirigir**: *"Pero son herramientas que usan en la industria. ¿Qué tal si las exploramos juntos en un ejemplo sencillo?"*.  
+
+- **Lenguaje no verbal**:  
+  - Mantén contacto visual calmado, postura abierta y tono de voz firme pero tranquilo (evita sonar defensivo).  
+
+---
+
+### **3. Estrategias Pedagógicas Inclusivas**  
+*(Reducir la resistencia y aumentar el engagement)*  
+
+- **Enfoque "Trozo Pequeño"**:  
+  - Divide las herramientas STEAM en pasos mínimos. Por ejemplo:  
+    - **Clase 1**: Solo Google Colab para ejecutar *un* código de ejemplo (sin teoría).  
+    - **Clase 2**: Editar ese código en Markdown (explicando que es como WhatsApp con formato).  
+
+- **Vinculación con sus intereses**:  
+  - Pregúntales: *"¿Qué problema les gustaría resolver con números? ¿Presupuestos, estadísticas de deportes?"*. Usa eso para introducir Python.  
+
+- **Alternativas graduales**:  
+  - Para los más reacios, permite entregar trabajos manuscritos *al principio*, pero exige *poco a poco* formato Markdown o LaTeX (ej: solo títulos).  
+
+---
+
+### **4. Liderazgo según Covey**  
+*("Confiar y Liderar" con estudiantes difíciles)*  
+
+- **Modelar con ejemplo**:  
+  - Muestra tu propio proceso de aprendizaje: *"Ayer me equivoqué en este código y así lo corregí"*. Normaliza la curva de aprendizaje.  
+
+- **Empoderar a los líderes naturales**:  
+  - Identifica a algún estudiante interesado en las herramientas y pídele que ayude a Fred en una tarea práctica (aprendizaje entre pares).  
+
+- **Reuniones individuales**:  
+  - Invita a Fred a una conversación privada:  
+    *"Noto que tienes ideas fuertes sobre cómo aprender. ¿Cómo podríamos hacer que esta clase funcione para ti y para el grupo?"*.  
+
+---
+
+### **5. Refuerzo Positivo**  
+*(Cambiar el foco del conflicto al progreso)*  
+
+- **Celebrar micrologros**:  
+  - Si Fred entrega algo en Markdown, destácalo: *"Este formato ayuda a que tu trabajo sea más claro. Bien hecho"*.  
+
+- **Retroalimentación grupal**:  
+  - Al final de cada clase, pide al grupo: *"Escriban en un pos-it algo que les sirvió hoy"*. Lee algunos en voz alta (crea cultura de valoración).  
+
+---
+
+### **6. Gestión del Ambiente**  
+*(Limitar comportamientos disruptivos sin escalar)*  
+
+- **Normas claras y co-creadas**:  
+  - En una clase, pide al grupo definir *"3 acuerdos para convivir"* (ej: *"Respetar los turnos de palabra"*). Escríbanlos en una cartelera y refiérete a ellos cuando haya burlas.  
+
+- **Técnica del "Disco rayado"**:  
+  - Si Fred se opone, repite calmamente: *"Entiendo tu opinión, pero hoy practicaremos esto porque es parte del programa"*. Sin entrar en debate.  
+
+---
+
+### **7. Autocuidado Docente**  
+*(Evitar el desgaste emocional)*  
+
+- **Rutina post-clase**:  
+  - Después de clases tensionantes, haz algo que te recargue (caminar, música, escribir).  
+
+- **Red de apoyo**:  
+  - Habla con colegas que usen STEAM. Compartan estrategias para resistencias comunes.  
+
+---
+
+### **Ejemplo Práctico**  
+**Situación**: Fred dice *"Markdown es inútil"* durante tu demostración en Google Colab.  
+
+**Respuesta con IE**:  
+1. **Pausa** y respira.  
+2. **Valida**: *"Fred, sé que puede parecer extraño al inicio. A mí también me pasó"*.  
+3. **Invita**: *"¿Qué tal si pruebas solo agregar un **subtítulo** en negritas? Luego vemos si te sirve"*.  
+4. **Refuerza**: Si lo intenta, di *"¡Eso! Ahora tu código es más legible"*.  
+
+---
+
+### **Recursos Adicionales**  
+- Libro: *"Inteligencia Emocional en el Aula"* (Linda Lantieri).  
+- Video: [Cómo gestionar conflictos en clase](https://www.youtube.com/watch?v=ejjFd7YWqZI).  
+
+**Clave**: La IE no es evitar el conflicto, sino transformarlo en una oportunidad para modelar resiliencia y apertura. Fred no es tu adversario, sino un estudiante que aún no ve el valor de lo que enseñas. Tu paciencia estratégica puede ser la semilla de su cambio.  
+
+¿Quieres practicar respuestas para situaciones específicas? ¡Aquí estoy! 🌱  
+
