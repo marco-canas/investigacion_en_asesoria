@@ -1,2 +1,0 @@
-# recoleccion evidencias
-

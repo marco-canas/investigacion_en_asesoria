@@ -1,2 +1,0 @@
-# metricas impacto
-

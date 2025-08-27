@@ -1,2 +1,0 @@
-# seleccion problemas
-
