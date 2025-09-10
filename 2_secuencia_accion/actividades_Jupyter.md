@@ -1,2 +1,0 @@
-# actividades Jupyter
-
